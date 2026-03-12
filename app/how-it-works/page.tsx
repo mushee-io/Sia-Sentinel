@@ -11,9 +11,9 @@ export default function HowItWorksPage() {
           <div className="sectionHead">
             <div>
               <div className="eyebrow">Methodology</div>
-              <h1 className="sectionTitle">How the MVP is meant to work</h1>
+              <h1 className="sectionTitle">How Sia Sentinel Works</h1>
               <p className="sectionText">
-                The site is designed to present a credible grant-ready story: a strong landing page, a clear operational dashboard, transparent host scoring, and room to connect live Sia signals after the first polished release.
+                Sia Sentinel provides a clear operational view of the Sia network. It discovers hosts, monitors reliability signals such as uptime and latency, and produces transparent trust scores so developers and operators can quickly understand network health.
               </p>
             </div>
           </div>
