@@ -14,7 +14,7 @@ export default function HomePage() {
       <section className="hero">
         <div className="container heroGrid">
           <div className="heroCard">
-            <div className="eyebrow">Grant-ready infrastructure for Sia</div>
+            <div className="eyebrow">Reliability intelligence for the Sia network</div>
             <h1 className="heroTitle">
               Sia <span className="accentGreen">Sentinel</span>
               <br />
@@ -22,8 +22,7 @@ export default function HomePage() {
             </h1>
             <p className="heroText">
               A reliability intelligence layer for the Sia ecosystem that turns host monitoring,
-              scoring, incidents, and network visibility into a single clear interface. Built to
-              show a real path from compelling MVP to grant-backed infrastructure.
+              scoring, incidents, and network visibility into a single clear interface.
             </p>
             <div className="heroActions">
               <Link href="/dashboard" className="buttonPrimary">Open Dashboard</Link>
