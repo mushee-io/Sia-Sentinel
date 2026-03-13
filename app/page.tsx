@@ -54,7 +54,7 @@ export default function HomePage() {
           <div className="sectionHead">
             <div>
               <p className="smallCaps">What Sentinel shows</p>
-              <h2 className="sectionTitle">Designed to feel premium, calm, and instantly trustworthy.</h2>
+              <h2 className="sectionTitle">Clear, reliable insight into the Sia network.</h2>
             </div>
           </div>
           <div className="cardsGrid">
