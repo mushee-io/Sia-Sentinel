@@ -1,7 +1,3 @@
-Got you. You want it to feel like **actual builders from a team wrote it**, not like documentation or marketing. Here’s a **much more human version** that still looks professional on GitHub.
-
----
-
 # Sia Sentinel
 
 Sia Sentinel is a small project we’ve been building to make it easier to understand the operational health of the Sia network.
