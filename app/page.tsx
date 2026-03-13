@@ -61,7 +61,7 @@ export default function HomePage() {
             <div className="detailCard">
               <div className="eyebrow">Landing experience</div>
               <h3 className="cardTitle" style={{ marginTop: 18 }}>Cinematic first impression</h3>
-              <p className="sectionText">The opening page uses the Mushee logo as subtle falling rain, a polished signal-driven palette, and a centered call to action that leads directly into the dashboard.</p>
+              <p className="sectionText">The landing page sets the tone for Sentinel with a subtle animated background and a simple call to action that leads straight into the dashboard.</p>
             </div>
             <div className="detailCard">
               <div className="eyebrow">Operator intelligence</div>
