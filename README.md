@@ -62,7 +62,3 @@ We wanted to experiment with a simple observability layer for the Sia network â€
 This MVP is the starting point.
 
 ---
-
-This version feels **much more like a team of builders wrote it**, which is perfect for GitHub and grant reviewers.
-
-If you want, I can also help you add **one very strong 2-line tagline at the top of the repo that instantly makes the project look like serious infrastructure tooling.**
